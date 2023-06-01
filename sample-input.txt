@@ -1,0 +1,106 @@
+Tagalog: mahal
+Cebuano: gugma
+Chinese: ai
+Hiligaynon: gugma
+Spanish: amor
+English: love
+
+English: expensive
+Tagalog: mahal
+Cebuano: mahal
+Chinese: gui
+Kapampangan: mal
+
+Malay: buah-buahan
+Hungarian: gyumolcs
+Tagalog: prutas
+
+Greek: fortistis
+Irish: luchtaire
+Italian: caricabatterie
+English: charger
+Malay: pengecas
+Norweigan: lader
+Romanian: incarcator
+
+English: bed
+Igbo: akwa
+Maltese: sodda
+Turkish: yatak
+
+Afrikaans: kat
+Armenian: katu
+Russian: koshka
+Slovak: kat
+
+Tagalog: kape
+English: coffee
+
+Afrikaans: hond
+English: dog
+Tagalog: aso
+
+English: delicious
+Hungarian: finom
+Irish: blasta
+Tagalog: masarap
+
+English: colorful
+Tagalog: makulay
+Irish: ildaite
+Somali: midab leh
+Latin: varia
+German: bunt
+Swedish: fargrik
+Icelandic: litrik
+
+English: and
+Tagalog: at
+
+Spanish: noche
+English: night
+Indonesian: malam
+Portuguese: noite
+
+Spanish: hermosa
+Malay: cantik
+English: beautiful
+
+Spanish: brillante
+Hindi: chamakadaar
+Maltese: qawwi
+Finnish: kirkas
+English: bright
+Tagalog: maliwanag
+
+Tagalog: ako
+English: me
+Basque: ni
+Somali: aniga
+
+Tagalog: mabuti
+Malay: baik
+English: good
+
+Tagalog: oras
+Maltese: hin
+English: time
+Uzbek: vaqt
+Welsh: amser
+
+Samoan: tagata
+Cebuano: tawo
+
+Japanese: seikatsu
+English: life
+Spanish: vida
+
+Tagalog: gulay
+English: vegetable
+Spanish: verdura
+Malay: sayur
+Maltese: vegetali
+Turkish: sebze
+French: legume
+Latin: vegetabilis
+
